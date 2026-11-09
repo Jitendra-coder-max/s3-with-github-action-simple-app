@@ -1,0 +1,1 @@
+A web-based HR platform that helps teams manage talent assessment programs, track participant progress, and review competency scores through an interactive integration grid. Built with React, Vite, and Tailwind CSS.
